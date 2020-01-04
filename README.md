@@ -10,6 +10,6 @@ automated trading system (bot)
 - Deep analysis of every past and future trade.
 - Technologies: C++, Golang, PostgreSQL, MongoDB.
 
-I invite serious people to join the project and earn a lot of money together.
-My e-mail: consul-incom@ya.ru
+I invite serious people to join the project and earn a lot of money together.<br>
+e-mail: consul-incom@ya.ru
 Denis
