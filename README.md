@@ -9,3 +9,7 @@ automated trading system (bot)
 - Unique indicator based on changing: time, volumes, prices.
 - Deep analysis of every past and future trade.
 - Technologies: C++, Golang, PostgreSQL, MongoDB.
+
+I invite serious people to join the project and earn a lot of money together.
+My e-mail: consul-incom@ya.ru
+Denis
