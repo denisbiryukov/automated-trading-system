@@ -11,5 +11,5 @@ automated trading system (bot)
 - Technologies: C++, Golang, PostgreSQL, MongoDB.
 
 I invite serious people to join the project and earn a lot of money together.<br>
-e-mail: consul-incom@ya.ru
-Denis
+e-mail: consul-incom@ya.ru<br>
+Denis<br>
