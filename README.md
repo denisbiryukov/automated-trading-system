@@ -1,7 +1,7 @@
 # automated-trading-system
 automated trading system (bot)
 
-- Pure profit ~36%/year.
+- Pure profit ~36%/year. (Without credit leverage.)
 - No risk. Verification with a virtual account in real-time.
 - Automated trading robot with a unique approach.
 - Historic data analysis of stock markets (NYSE, Nasdaq) with the following trades.
